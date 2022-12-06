@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">History</string>
+    <string name="title_notifications">Settings</string>
+
+    <string name="weightviewText">Calculate your BMI</string>
+    <string name="historyText">Weight history</string>
+    <string name="settingsText">Set your height</string>
+    <string name="weight">Weight</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="defaultResult" />
+    <string name="setButton">Set</string>
+    <string name="weightList">Weight list</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resetButton">Empty history data</string>
+</resources>
